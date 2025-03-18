@@ -1,2 +1,2 @@
-# R-Tutorial
+# RStudio-Tutorial
 
